@@ -1,0 +1,4 @@
+        http://doc.gold.ac.uk/~vpetr004/resit/index.html
+        http://doc.gold.ac.uk/~vpetr004/resit/about.html
+        http://doc.gold.ac.uk/~vpetr004/resit/advice.html
+        http://doc.gold.ac.uk/~vpetr004/resit/report.html
